@@ -48,8 +48,6 @@ It includes features such as responsive grids, navigation, and interactive eleme
 
 https://dji-mavic-4-pro.netlify.app
 
-> 💡 *Replace this local URL with your online hosted version (Netlify, Vercel, GitHub Pages) to make it public.*
-
 ---
 
 ## 💻 GitHub Repository
